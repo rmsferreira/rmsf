@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/SportTV1.png" group-title="Sports",SportTV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="SportTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/SportTV2.png" group-title="Sports",SportTV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="SportTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/SportTV1.png" group-title="Sports",SportTV 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Sports",ElevenSport 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Sports",ElevenSport 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Sports",ElevenSport 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Sports",ElevenSport 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport5" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Sports",ElevenSport 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="ElevenSport6" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Sports",ElevenSport 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="BTV" tvg-logo="https://i.imgur.com/l6LACto.png" group-title="Sports",BTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
